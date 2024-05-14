@@ -58,3 +58,5 @@ list as deque means both-side in any-side out.
 # All methods are revised throughly.
 
 # got it.
+
+[References](https://docs.python.org/3/tutorial/datastructures.html)

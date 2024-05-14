@@ -7,3 +7,5 @@ This contains the repository for which Python is programmed and Hackerrank and L
 [Hackerrrank - Algorithms - in Python ](https://www.hackerrank.com/domains/data-structures)
 [Hackerrank Python 5 star](https://www.hackerrank.com/domains/python?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=python)
 [Python official doc for list](https://docs.python.org/3/tutorial/datastructures.html)
+
+> May 14 - Done with List and Comprehsion list and its methods.

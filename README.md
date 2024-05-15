@@ -12,3 +12,7 @@ This contains the repository for which Python is programmed and Hackerrank and L
 
 > May 15 -  Done with 4 problems of python and learned more about string methods. got 3 stars.
             Done with 2 problems of Java and got 2 stars.
+            Done with Del statments.
+
+
+[50 interview questions](https://www.geeksforgeeks.org/python-interview-questions/)

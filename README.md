@@ -10,4 +10,5 @@ This contains the repository for which Python is programmed and Hackerrank and L
 
 > May 14 - Done with List and Comprehsion list and its methods.
 
-> May 15 -  Done with three problems and learned more about string methods.
+> May 15 -  Done with 4 problems of python and learned more about string methods. got 3 stars.
+            Done with 2 problems of Java and got 2 stars.

@@ -9,3 +9,5 @@ This contains the repository for which Python is programmed and Hackerrank and L
 [Python official doc for list](https://docs.python.org/3/tutorial/datastructures.html)
 
 > May 14 - Done with List and Comprehsion list and its methods.
+
+> May 15 -  Done with three problems and learned more about string methods.

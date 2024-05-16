@@ -57,6 +57,23 @@ list as deque means both-side in any-side out.
 
 # All methods are revised throughly.
 
+
+
+# Nested List :
+nested list are same as java matrix array.
+you can imagine having 2 loops iterating through nested lists.
+this can be achieved using loops to iterate through the rows and columns.
+ 
+ - accessing elements - accessing elements inside the nested list is done via row-column numbers - element = nested_list[1][2] 
+ - appending to list : 
+> nested_list = [[1, 2, 3], [4, 5], [6]]
+  nested_list[1].append(6)
+  print(nested_list)  # Output: [[1, 2, 3], [4, 5, 6], [6]]
+
+
+
+
+
 # got it.
 
 [References](https://docs.python.org/3/tutorial/datastructures.html)

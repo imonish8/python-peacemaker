@@ -8,6 +8,14 @@ This contains the repository for which Python is programmed and Hackerrank and L
 [Hackerrank Python 5 star](https://www.hackerrank.com/domains/python?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=python)
 [Python official doc for list](https://docs.python.org/3/tutorial/datastructures.html)
 
+Practice 3 MONTH
+
+### 5 Star Python - [5 Star Python](https://www.hackerrank.com/domains/python?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=python)
+### 5 Star Java - [5 Star Java](https://www.hackerrank.com/domains/java?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=java)
+### Problem Solving Skill - [Prepare Companies](https://www.hackerrank.com/interview/preparation-kits/three-month-preparation-kit/three-month-week-one/challenges)
+### Leetcode [After completing Hackerrank move to Leetcode]()
+
+
 > May 14 - Done with List and Comprehsion list and its methods.
 
 > May 15 -  Done with 4 problems of python and learned more about string methods. got 3 stars.
@@ -19,6 +27,8 @@ This contains the repository for which Python is programmed and Hackerrank and L
            OH, Del statements can be used here too.
 
            
+> Jun 1 -  Enrolled in Problem Sovling Skill preparation for Companies 3months.
+           Solved 1st Problem of the Preparation.
 
 
 [50 interview questions](https://www.geeksforgeeks.org/python-interview-questions/)

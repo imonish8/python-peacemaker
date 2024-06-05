@@ -31,4 +31,8 @@ Practice 3 MONTH
            Solved 1st Problem of the Preparation.
 
 
+> June 5 - Joined my Stduy space and carrer space today, Way to my Success.
+           solved Hackerrank 1 problem after  (p22)
+
+
 [50 interview questions](https://www.geeksforgeeks.org/python-interview-questions/)

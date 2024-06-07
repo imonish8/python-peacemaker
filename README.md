@@ -34,5 +34,8 @@ Practice 3 MONTH
 > June 5 - Joined my Stduy space and carrer space today, Way to my Success.
            solved Hackerrank 1 problem after  (p22)
 
+> June 6 - Didnt solved anything did GRE Prep.
+
+> June 7 - Did Solved 3 Python and 1 Database Algorithms.
 
 [50 interview questions](https://www.geeksforgeeks.org/python-interview-questions/)
